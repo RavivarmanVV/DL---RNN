@@ -168,13 +168,16 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ## Training Loss Over Epochs Plot
 
+![WhatsApp Image 2026-03-13 at 9 10 35 AM](https://github.com/user-attachments/assets/7c934d38-fab0-4852-92d5-d5cb0bf21396)
 
 
 ## True Stock Price, Predicted Stock Price vs time
 
+![WhatsApp Image 2026-03-13 at 9 10 35 AM](https://github.com/user-attachments/assets/bf29fe53-fab7-4e5e-b94d-c7b16fbed3f9)
 
 
 ### Predictions
+![WhatsApp Image 2026-03-13 at 9 11 08 AM](https://github.com/user-attachments/assets/debd8765-0d56-495b-be93-73d4bc1f2477)
 
 
 ## RESULT
