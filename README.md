@@ -8,7 +8,8 @@ Stock price prediction is an important task in financial analysis because invest
 
 The objective of this project is to develop a Recurrent Neural Network (RNN) model that can learn patterns from historical stock price data and predict future prices. Using the historical closing prices of Google stock, the model will be trained on a training dataset and evaluated on a separate test dataset.
 
-The system will involve loading the datasets, preprocessing the data, building and training an RNN model, and then predicting stock prices for the test dataset. Finally, the predicted values will be compared with the actual stock prices to evaluate the performance and accuracy of the model.
+The system will involve loading the datasets, preprocessing the data, building and training an RNN model, and then predicting stock prices for the test dataset. Finally, the predicted values will be compared with the actual stock prices to evaluate the performance and accuracy of the model. 
+
 <img width="665" height="615" alt="image" src="https://github.com/user-attachments/assets/7f988cd6-7ba0-4113-a769-008f848b5ab4" />
 
 
