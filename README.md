@@ -182,7 +182,7 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 ## True Stock Price, Predicted Stock Price vs time
 
-![WhatsApp Image 2026-03-13 at 9 10 35 AM](https://github.com/user-attachments/assets/bf29fe53-fab7-4e5e-b94d-c7b16fbed3f9)
+![Image 2026-03-25 at 1 17 33 PM](https://github.com/user-attachments/assets/73ead615-f496-43e1-a93b-43233d6a2398)
 
 
 ### Predictions
